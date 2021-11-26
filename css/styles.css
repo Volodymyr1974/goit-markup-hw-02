@@ -1,0 +1,114 @@
+body {
+    background: #FFFFFF;
+    color: #212121;
+}
+
+.list {
+    list-style: none;
+}
+
+
+/* цвет основного текста #212121 */
+
+
+/* цвет вчторичного текста #757575  */
+
+
+/* цвет акцента  #2196F3 */
+
+
+/* цвет белого текста #FFFFFF; */
+
+
+/* цвет текста контакта  rgba(255, 255, 255, 0.6); */
+
+
+/* основной цвет фона #FFFFFF */
+
+
+/* вторичный цвет фона #F5F4FA */
+
+
+/* цвет фона футера #2F303A */
+
+
+/* Шапка сайта */
+
+.logo {
+    color: #2196F3;
+}
+
+.logo .end {
+    color: #212121;
+}
+
+
+/* Навигация сайта */
+
+.site-nav .link {
+    color: #212121;
+}
+
+.site-nav .link:hover,
+.site-nav .link:focus {
+    color: #2196F3;
+}
+
+.site-nav .link.current {
+    color: #2196F3;
+}
+
+
+/* Контакты сайта */
+
+.contacts .link {
+    color: #757575;
+}
+
+.address .link {
+    color: rgba(255, 255, 255, 0.6);
+}
+
+.contacts .link:hover,
+.contacts .link:focus,
+.address .link:hover,
+.address .link:focus {
+    color: #2196F3;
+}
+
+
+/* Герой для index.html*/
+
+.hero,
+.footer {
+    background-color: #2F303A;
+}
+
+.hero-title {
+    color: #FFFFFF;
+}
+
+.hero .btn {
+    color: #FFFFFF;
+    background-color: #2196F3;
+}
+
+
+/* Главные секции сайта */
+
+.advantage-text,
+.team-position,
+.portfolio-text {
+    color: #757575;
+}
+
+
+/* Футер */
+
+.text.end {
+    color: #FFFFFF;
+}
+
+.address {
+    color: #FFFFFF;
+}
